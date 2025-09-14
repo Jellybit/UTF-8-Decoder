@@ -3,7 +3,7 @@ A PowerShell script with a GUI designed to decode text corrupted by encoding mis
 
 I created this tool to solve a recurring issue where text, like city names or imported data, appears garbled (e.g., `Hà Nội` as `HÃ  Ná»i` or `Сочи` as `Ð¡Ð¾ÑÐ¸`) due to encoding errors. Websites and apps often misinterpret text saved in legacy encodings like ISO-8859-1 as UTF-8, scrambling characters from languages with unique scripts. This script provides an easy way to decode and correct that text.
 
-<img width="750" height="688" alt="image" src="https://github.com/user-attachments/assets/3998f244-502f-4752-8185-eb4fadc8be18" />
+<img width="563" height="516" alt="image" src="https://github.com/user-attachments/assets/3998f244-502f-4752-8185-eb4fadc8be18" />
 
 ## Features
 
